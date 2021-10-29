@@ -1,1 +1,1 @@
-# nft
+# CryptoBulls NFT
